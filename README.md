@@ -1,7 +1,6 @@
 # 📊 Python Sorting Algorithm Visualiser App
 
-A comprehensive Python desktop application designed to visualize popular sorting algorithms and test user knowledge. This project was originally built as part of an **A-Level Computer Science Coursework** project, aligned with the **OCR Specification**.
-
+A Python desktop app designed to visualize 4 sorting algorithms from the OCR A-level Computer Science specification and test user knowledge. This project was made for my **A-Level Computer Science Coursework** .
 
 ## 📸 Application Walkthrough
 
@@ -24,7 +23,7 @@ A comprehensive Python desktop application designed to visualize popular sorting
 ---
 
 ### 3. Sorting Algorithm Animations
-*Generates real-time, side-by-side graphical animations for **Bubble**, **Insertion**, **Merge**, and **Quick Sort** based on user-defined dataset sizes.*
+*Generates animations for **Bubble**, **Insertion**, **Merge**, and **Quick Sort** based on user-defined dataset size. Datasets are randomly generated without user interaction*
 
 <p align="center">
   <img width="648" alt="Sorting Animation Screen" src="https://github.com/user-attachments/assets/5390d9ba-acef-436a-87af-82f028ae2b28" />
@@ -33,7 +32,7 @@ A comprehensive Python desktop application designed to visualize popular sorting
 ---
 
 ### 4. Revision Quiz
-*Features 14 targeted multiple-choice and algorithmic questions mapped directly to the OCR Computer Science curriculum.*
+*Features 14 multiple-choice questions target to the OCR A-level Computer Science curriculum.*
 
 <p align="center">
   <img width="646" alt="Quiz Screen" src="https://github.com/user-attachments/assets/41afd2f8-5130-44a3-aa74-c38f74dd64c7" />
