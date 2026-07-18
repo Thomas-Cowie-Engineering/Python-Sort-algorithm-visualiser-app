@@ -1,30 +1,50 @@
-# Python-Sort-algorithm-visualiser-app
+# 📊 Python Sorting Algorithm Visualiser App
 
-Summary:
+A comprehensive Python desktop application designed to visualize popular sorting algorithms and test user knowledge. This project was originally built as part of an **A-Level Computer Science Coursework** project, aligned with the **OCR Specification**.
 
-This is a project that I made for my A-level computer Science coursework.
+---
 
-This has 4 main sections:
+## 🚀 Key Features
 
-1. Login/Signup system - User's can create an account or sign up. A user must sign up to access the app.
-2. Home Screen - Welcomes the user to the app by their username and displays stats from quizes they have played.
-3. Sort algorithm animations screen - user can generate 4 animations of a bubble, insertion, merge and quick sort by inputting a data set size.
-4. Quiz screen - The user answer's 14 questions related to sorting algorithm questions from the A-level OCR Computer Science SPEC.
+*   **Secure Authentication:** A complete Login/Signup system to protect and personalize user data.
+*   **Dynamic Visualizations:** Step-by-step animations for Bubble, Insertion, Merge, and Quick Sort based on custom data set sizes.
+*   **Interactive Quizzes:** A 14-question quiz engineered specifically around OCR A-Level exam requirements.
+*   **Personalized Dashboard:** A home screen tracking quiz performance and statistics per user.
 
-1. Login/Signup system
+---
 
-<img width="645" height="377" alt="image" src="https://github.com/user-attachments/assets/08573220-da94-497d-a435-0ca465a65d94" />
-<img width="644" height="374" alt="image" src="https://github.com/user-attachments/assets/fe79f86c-748d-4ac6-8a63-6d104f1d90d1" />
+## 📸 Application Walkthrough
 
-2. Home Screen
+### 1. Login & Signup System
+*Users must create an account or sign in to access the visualizer and track their progress.*
 
-<img width="644" height="379" alt="image" src="https://github.com/user-attachments/assets/038d3958-aa43-4d81-87ec-77f2ae8d82d5" />
+| Sign In | Sign Up |
+| :---: | :---: |
+| <img width="645" alt="Login Screen" src="https://github.com/user-attachments/assets/08573220-da94-497d-a435-0ca465a65d94" /> | <img width="644" alt="Signup Screen" src="https://github.com/user-attachments/assets/fe79f86c-748d-4ac6-8a63-6d104f1d90d1" /> |
 
-3.  Sort algorithm animations screen
+---
 
-<img width="648" height="377" alt="image" src="https://github.com/user-attachments/assets/5390d9ba-acef-436a-87af-82f028ae2b28" />
+### 2. Home Screen
+*Welcomes users by their username and displays historical statistics from quizzes they have completed.*
 
-4. Quiz Screen
+<p align="center">
+  <img width="644" alt="Home Screen Dashboard" src="https://github.com/user-attachments/assets/038d3958-aa43-4d81-87ec-77f2ae8d82d5" />
+</p>
 
-<img width="646" height="377" alt="image" src="https://github.com/user-attachments/assets/41afd2f8-5130-44a3-aa74-c38f74dd64c7" />
+---
 
+### 3. Sorting Algorithm Animations
+*Generates real-time, side-by-side graphical animations for **Bubble**, **Insertion**, **Merge**, and **Quick Sort** based on user-defined dataset sizes.*
+
+<p align="center">
+  <img width="648" alt="Sorting Animation Screen" src="https://github.com/user-attachments/assets/5390d9ba-acef-436a-87af-82f028ae2b28" />
+</p>
+
+---
+
+### 4. Revision Quiz
+*Features 14 targeted multiple-choice and algorithmic questions mapped directly to the OCR Computer Science curriculum.*
+
+<p align="center">
+  <img width="646" alt="Quiz Screen" src="https://github.com/user-attachments/assets/41afd2f8-5130-44a3-aa74-c38f74dd64c7" />
+</p>
