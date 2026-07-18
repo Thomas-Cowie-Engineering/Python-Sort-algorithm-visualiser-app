@@ -2,6 +2,8 @@
 
 A Python desktop app designed to visualize 4 sorting algorithms from the OCR A-level Computer Science specification and test user knowledge. This project was made for my **A-Level Computer Science Coursework** .
 
+See "python files" to try it out for youself !
+
 ---
 
 ## 🚀 Programming concepts and skill demonstrated.
