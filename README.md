@@ -2,10 +2,14 @@
 
 Summary:
 
-This is an app made in python that has 4 main sections:
+This is a project that I made for my A-level computer Science coursework.
+
+This has 4 main sections:
 
 1. Login/Signup system - User's can create an account or sign up. A user must sign up to access the app.
-2. Home Screen - 
+2. Home Screen - Welcomes the user to the app by their username and displays stats from quizes they have played.
+3. Sort algorithm animations screen - user can generate 4 animations of a bubble, insertion, merge and quick sort by inputting a data set size.
+4. Quiz screen - The user answer's 14 questions related to sorting algorithm questions from the A-level OCR Computer Science SPEC.
 
 1. Login/Signup system
 
