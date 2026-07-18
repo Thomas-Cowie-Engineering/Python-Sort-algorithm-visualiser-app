@@ -2,16 +2,6 @@
 
 A comprehensive Python desktop application designed to visualize popular sorting algorithms and test user knowledge. This project was originally built as part of an **A-Level Computer Science Coursework** project, aligned with the **OCR Specification**.
 
----
-
-## 🚀 Key Features
-
-*   **Secure Authentication:** A complete Login/Signup system to protect and personalize user data.
-*   **Dynamic Visualizations:** Step-by-step animations for Bubble, Insertion, Merge, and Quick Sort based on custom data set sizes.
-*   **Interactive Quizzes:** A 14-question quiz engineered specifically around OCR A-Level exam requirements.
-*   **Personalized Dashboard:** A home screen tracking quiz performance and statistics per user.
-
----
 
 ## 📸 Application Walkthrough
 
