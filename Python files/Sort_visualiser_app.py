@@ -1,3 +1,8 @@
+# Creator: Thomas Cowie
+# Context: Sort visualiser app with a login, quiz, and sorting animations. I made this for my OCR A-level Computer science Coursework.
+# Credit: The sorting animations were adapted from the github user "nrsyed"
+# Credit: Github repo from "nrsyed": https://github.com/nrsyed/sorts/tree/master"
+
 #imports
 from tkinter import *
 from tkinter import PhotoImage, messagebox
