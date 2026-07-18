@@ -1,4 +1,4 @@
 
 1. Make sure you have all the necessary modules installed on your computer or the environment you're using to run the python script. You can see the modules you need at the top of the python script at the import section. For example, the script uses the matplotlib module so if you don't have this installed it will not work.
 
-2. Ensure the Python script is in the same folder/directory as the SortShowcase.db database file and the background.png file.
+2. Ensure the Python script is in the same folder/directory as the SortShowcase.db database file and the background.png file. It wil not work otherwise.
