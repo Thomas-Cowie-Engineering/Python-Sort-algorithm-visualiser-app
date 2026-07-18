@@ -2,6 +2,19 @@
 
 A Python desktop app designed to visualize 4 sorting algorithms from the OCR A-level Computer Science specification and test user knowledge. This project was made for my **A-Level Computer Science Coursework** .
 
+---
+
+## 🚀 Programming concepts and skill demonstrated.
+
+*   **Programming:** Python, SQL
+*   **Database:** Stored user details such as username, password, quiz stats in a relational sqlite3 database "SortShowcase.db"
+*   **Secure password storage:** Used hashing algorithms to store user passwords within my user database in the case of data breaches.
+*   **Object Orientated Programming:** Systems such as the Login and Quiz were made by making them into individual classes.
+*   **GUI development:**
+*   **Effective Project management** Used the Spiral methodoloy and decomposition to develop, prototype and test the app until a robust, functioning final product was achieved.
+
+---
+
 ## 📸 Application Walkthrough
 
 ### 1. Login & Signup System
