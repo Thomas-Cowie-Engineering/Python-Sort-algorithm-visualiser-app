@@ -4,6 +4,9 @@ Summary:
 
 This is an app made in python that has 4 main sections:
 
+1. Login/Signup system - User's can create an account or sign up. A user must sign up to access the app.
+2. Home Screen - 
+
 1. Login/Signup system
 
 <img width="645" height="377" alt="image" src="https://github.com/user-attachments/assets/08573220-da94-497d-a435-0ca465a65d94" />
