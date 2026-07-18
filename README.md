@@ -50,3 +50,13 @@ A Python desktop app designed to visualize 4 sorting algorithms from the OCR A-l
 <p align="center">
   <img width="646" alt="Quiz Screen" src="https://github.com/user-attachments/assets/41afd2f8-5130-44a3-aa74-c38f74dd64c7" />
 </p>
+
+## Credit
+
+The sorting algorithm animations are not my own. They're from a user by the name "nrsyed". Their python script involves the user inputing a data set size in a command line interface format and choosing a single sorting algorithm animation to be displayed. I took this and modified it massively for my app. 
+
+Below is the github repository:
+
+https://github.com/nrsyed/sorts/tree/master
+
+
